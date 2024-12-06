@@ -10,6 +10,8 @@ function App() {
     <>
     <h1>React with Git</h1>
     <h2>Learning git</h2>
+    <h3>Monica är bäst!</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, earum!</p>
     </>
   )
 }
